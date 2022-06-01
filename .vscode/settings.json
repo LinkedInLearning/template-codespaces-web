@@ -25,6 +25,5 @@
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
-  "liveServer.settings.NoBrowser": true,
   "liveServer.settings.donotVerifyTags": true
 }
